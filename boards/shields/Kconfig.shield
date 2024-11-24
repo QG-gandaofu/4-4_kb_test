@@ -1,0 +1,2 @@
+config Zz01
+    def_bool $(shields_list_contains,Zz01)
